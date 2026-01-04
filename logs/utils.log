@@ -1,0 +1,53 @@
+2026-01-04 21:19:12,014 masks.py INFO - function get_mask_card_number is started
+2026-01-04 21:19:12,015 masks.py INFO - data successfully received and reformated
+2026-01-04 21:19:12,015 masks.py INFO - card number successfully masked
+2026-01-04 21:19:12,015 masks.py INFO - function get_mask_card_number is started
+2026-01-04 21:19:12,015 masks.py INFO - data successfully received and reformated
+2026-01-04 21:19:12,015 masks.py INFO - card number successfully masked
+2026-01-04 21:19:12,015 masks.py INFO - function get_mask_card_number is started
+2026-01-04 21:19:12,016 masks.py INFO - data successfully received and reformated
+2026-01-04 21:19:12,016 masks.py INFO - card number successfully masked
+2026-01-04 21:19:12,016 masks.py INFO - function get_mask_account is started
+2026-01-04 21:19:12,016 masks.py INFO - data successfully received and reformated
+2026-01-04 21:19:12,016 masks.py INFO - account successfully masked
+2026-01-04 21:19:12,016 masks.py INFO - function get_mask_account is started
+2026-01-04 21:19:12,017 masks.py INFO - data successfully received and reformated
+2026-01-04 21:19:12,017 masks.py INFO - account successfully masked
+2026-01-04 21:19:12,017 masks.py INFO - function get_mask_card_number is started
+2026-01-04 21:19:12,017 masks.py INFO - data successfully received and reformated
+2026-01-04 21:19:12,017 masks.py INFO - card number successfully masked
+2026-01-04 21:19:12,018 masks.py INFO - function get_mask_account is started
+2026-01-04 21:19:12,018 masks.py INFO - data successfully received and reformated
+2026-01-04 21:19:12,018 masks.py INFO - account successfully masked
+2026-01-04 21:19:12,018 masks.py INFO - function get_mask_card_number is started
+2026-01-04 21:19:12,018 masks.py INFO - data successfully received and reformated
+2026-01-04 21:19:12,019 masks.py INFO - card number successfully masked
+2026-01-04 21:19:14,196 views.py INFO - Генерация страницы 'Главная' для 2021-12-31 16:00:00
+2026-01-04 21:19:15,458 views.py INFO - Пользовательские настройки загружены
+2026-01-04 21:19:15,474 views.py INFO - Получена информация по 3 картам
+2026-01-04 21:19:15,490 views.py INFO - Получен топ-5 транзакций
+2026-01-04 21:19:15,492 connectionpool.py DEBUG - Starting new HTTPS connection (1): www.cbr-xml-daily.ru:443
+2026-01-04 21:19:16,257 connectionpool.py DEBUG - https://www.cbr-xml-daily.ru:443 "GET /daily_json.js HTTP/1.1" 200 2161
+2026-01-04 21:19:16,258 views.py INFO - Получены курсы для 2 валют
+2026-01-04 21:19:16,259 views.py INFO - Получены цены для 5 акций
+2026-01-04 21:19:16,259 views.py INFO - Страница 'Главная' успешно сгенерирована
+2026-01-04 21:19:17,552 services.py INFO - Поиск транзакций по запросу: 'Лента'
+2026-01-04 21:19:17,558 services.py INFO - Найдено транзакций: 4
+2026-01-04 21:19:17,559 services.py INFO - Поиск транзакций с телефонными номерами
+2026-01-04 21:19:17,564 services.py INFO - Найдено транзакций с телефонными номерами: 25
+2026-01-04 21:19:17,565 services.py INFO - Поиск переводов физическим лицам
+2026-01-04 21:19:17,577 services.py INFO - Найдено переводов физлицам: 116
+2026-01-04 21:19:17,579 services.py INFO - Расчет инвесткопилки за 2021-12 с порогом 50
+2026-01-04 21:19:17,587 services.py INFO - Сумма для инвесткопилки: 5023.79
+2026-01-04 21:19:17,587 services.py INFO - Анализ выгодности категорий за 2021-12
+2026-01-04 21:19:17,597 services.py INFO - Проанализировано категорий: 26
+2026-01-04 21:19:18,790 reports.py INFO - Формирование отчета по категории 'Супермаркеты'
+2026-01-04 21:19:18,791 reports.py INFO - Период отчета: 02.10.2021 - 31.12.2021
+2026-01-04 21:19:18,825 reports.py INFO - Отчет сформирован: 3 месяцев
+2026-01-04 21:19:18,829 reports.py INFO - Отчет сохранен в файл: reports\report_spending_by_category_20260104_211918.txt
+2026-01-04 21:19:18,830 reports.py INFO - Формирование отчета по дням недели
+2026-01-04 21:19:18,862 reports.py INFO - Отчет сформирован: 7 дней
+2026-01-04 21:19:18,865 reports.py INFO - Отчет сохранен в файл: reports\report_spending_by_weekday_20260104_211918.txt
+2026-01-04 21:19:18,866 reports.py INFO - Формирование отчета по рабочим/выходным дням
+2026-01-04 21:19:18,895 reports.py INFO - Отчет по рабочим/выходным дням сформирован
+2026-01-04 21:19:18,898 reports.py INFO - Отчет сохранен в файл: reports\report_spending_by_workday_20260104_211918.txt
